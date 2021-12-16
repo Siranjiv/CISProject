@@ -27,7 +27,7 @@ import java.awt.event.MouseEvent;
  * The email and name entered by player should be unique.If either email or name is already registered it cannot be used again, since email is unique and name is kept unique to 
  * manage the scores, this helps the  players can view the scores in ScoreBoardGUI with ease 
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class RegisterGUI {
 

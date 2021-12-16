@@ -22,7 +22,7 @@ import java.awt.Font;
 /**
  * This Graphical user interface is the MainMenu of the Game where the player can navigate other GUIs and services
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class MainMenuGUI extends JFrame {
 

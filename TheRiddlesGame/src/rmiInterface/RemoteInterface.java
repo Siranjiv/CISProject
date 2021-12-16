@@ -6,7 +6,7 @@ import java.rmi.RemoteException;
 /**RMI Interface which has abstact method to exchange data between the client and server
  * Interface used
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public interface RemoteInterface extends Remote {
 

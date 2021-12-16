@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 /**
  * This is the server class which has to run in order to start the server
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class Server {
 

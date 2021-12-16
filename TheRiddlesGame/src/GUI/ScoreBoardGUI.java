@@ -26,7 +26,7 @@ import javax.swing.SwingConstants;
  * This Graphical user interface launches the scoreboard of the game where each player's name and score is displayed if the player is registed and not played the score cell will show blank.
  * The score updated score details of the perticular player will be show in the scoreboard
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class ScoreBoardGUI {
 

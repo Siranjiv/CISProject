@@ -12,7 +12,7 @@ import rmiInterface.RemoteInterface;
  * when the player is logged, then the "sessionCookie" variable changes which result being dynamic that makes the player having access to the game
  * when the player logout the "sessionCookie" becomes static again being assign by the same variable as "currentCookie"
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class GameService extends UnicastRemoteObject implements RemoteInterface {
 

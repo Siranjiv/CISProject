@@ -30,7 +30,7 @@ import javax.swing.UIManager;
  * The azure table api is used for authentication of the player
  * The RMI service is used to collect the player's email to assign the score of the player after the player played the game
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class LoginGUI extends JFrame {
 

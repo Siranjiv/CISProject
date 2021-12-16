@@ -19,7 +19,7 @@ import java.awt.Color;
  * This Graphical user interface lauches the instuction of the game for the player
  * read and understand about the game
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class GameInstructionGUI {
 

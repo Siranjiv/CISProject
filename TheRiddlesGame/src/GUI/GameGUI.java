@@ -31,7 +31,7 @@ import java.awt.event.MouseEvent;
  *By RMI service the email of the current player is retrived from LoginGUI to assign the score of the player
  * 
  * @author Siranjiv Sivapalan
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 public class GameGUI extends JFrame {
 

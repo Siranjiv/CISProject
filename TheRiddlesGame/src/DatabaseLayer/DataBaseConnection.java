@@ -22,8 +22,10 @@ import Model.Player;
  * 
  * This class represents the the connection and methods used to send and retirved data using azure table storage
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
+
+
 public class DataBaseConnection {
 
 	/**

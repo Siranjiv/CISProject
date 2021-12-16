@@ -5,7 +5,7 @@ import com.microsoft.azure.storage.table.TableServiceEntity;
 /**
  * This class represents the player detailed to be stored and used in azure storage and other GUIs
  * @author Sivapalan Siranjiv
- *
+ *Refer the repository-//https://github.com/Siranjiv/CISProject
  */
 
 public class Player extends TableServiceEntity {
